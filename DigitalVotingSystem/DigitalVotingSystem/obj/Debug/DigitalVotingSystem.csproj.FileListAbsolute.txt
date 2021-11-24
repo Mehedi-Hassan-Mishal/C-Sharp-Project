@@ -1,0 +1,17 @@
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\bin\Debug\DigitalVotingSystem.exe.config
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\bin\Debug\DigitalVotingSystem.exe
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\bin\Debug\DigitalVotingSystem.pdb
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.csprojAssemblyReference.cache
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.Properties.Resources.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.csproj.GenerateResource.cache
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.csproj.CoreCompileInputs.cache
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.exe
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.pdb
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.SignIn.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.administrationHome.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.Vote.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.VoterHome.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.RegistrationForm.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.ListView.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.CandidatesList.resources
+D:\C#\DigitalVotingSystem\DigitalVotingSystem\obj\Debug\DigitalVotingSystem.View.Result.resources
